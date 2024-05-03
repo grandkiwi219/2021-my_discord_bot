@@ -1,7 +1,7 @@
 const ready = require("./ready");
 const fileLoad = require("./function/function/fileLoad");
 
-console.log("함수 및 세팅 설정 중...");
+console.log("시작 설정 중...");
 
 fileLoad({ path: "/", lang: ["normal file"] }, async (files, path) => {
     let load = await files.filter(r => !ready.start.location.includes(r) && !ready.lock.includes(r));
