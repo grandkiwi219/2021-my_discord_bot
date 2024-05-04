@@ -1,1 +1,0 @@
-[Download](https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%95%94%EC%8A%A4%ED%85%8C%EB%A5%B4%EB%8B%B4.ttf?date=20230404)
